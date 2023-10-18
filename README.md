@@ -1,6 +1,6 @@
 # CDK Lambda Notifier
 
-This is a TypeScript CDK project created from the official CDK template. This is an example CDK stack that is able to receive CloudWatch alarm notifications into an SNS topic. In turn, the SNS topic invokes a Lambda function that can process the notifications. This specific example integrates into Slack using App Incoming Webhooks. Read the full article [here](https://medium.com).
+This is a TypeScript CDK project created from the official CDK template. This is an example CDK stack that is able to receive CloudWatch alarm notifications into an SNS topic. In turn, the SNS topic invokes a Lambda function that can process the notifications. This specific example integrates into Slack using App Incoming Webhooks. Read the full article [here](https://makeitnew.io/how-to-automating-aws-lambda-notifications-using-cdk-and-slack-7d58f91a3089).
 
 ![Architecture](docs/aws-alarm.drawio.png)
 
